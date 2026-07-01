@@ -6,16 +6,16 @@ A simple HTML portfolio website to practice basic HTML structure and semantic ta
 
 ## HTML Tags Used
 
-* **`<html>`** – Defines the HTML document.
-* **`<head>`** – Contains webpage information.
-* **`<title>`** – Displays the page title in the browser tab.
-* **`<body>`** – Contains all visible webpage content.
-* **`<header>`** – Represents the top section of the webpage.
-* **`<h1>`** – Displays the main heading.
-* **`<nav>`** – Creates a navigation menu.
-* **`<a>`** – Creates hyperlinks.
-* **`<section>`** – Groups related content into sections.
-* **`<h2>`** – Displays section headings.
+<html> – Defines the HTML document.
+<head> – Contains webpage information.
+<title> – Displays the page title in the browser tab.
+<body> – Contains all visible webpage content.
+<header> – Represents the top section of the webpage.
+<h1>– Displays the main heading.
+<nav> – Creates a navigation menu.
+<a> – Creates hyperlinks.
+<section> – Groups related content into sections.
+<h2> – Displays section headings.
 * **`<img>`** – Displays an image.
 * **`<p>`** – Defines a paragraph.
 * **`<ul>`** – Creates an unordered list.
