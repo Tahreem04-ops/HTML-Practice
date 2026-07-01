@@ -16,8 +16,8 @@ A simple HTML portfolio website to practice basic HTML structure and semantic ta
 <a> – Creates hyperlinks.
 <section> – Groups related content into sections.
 <h2> – Displays section headings.
-* **`<img>`** – Displays an image.
-* **`<p>`** – Defines a paragraph.
-* **`<ul>`** – Creates an unordered list.
-* **`<li>`** – Defines a list item.
-* **`<footer>`** – Represents the bottom section of the webpage.
+<img> – Displays an image.
+<p> – Defines a paragraph.
+<ul> – Creates an unordered list.
+<li> – Defines a list item.
+<footer> – Represents the bottom section of the webpage.
