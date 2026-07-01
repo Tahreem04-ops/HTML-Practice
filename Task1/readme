@@ -2,16 +2,16 @@
 
 ## HTML Tags Used
 
-* **`<html>`** – Defines the root of the HTML document.
-* **`<head>`** – Contains information about the webpage, such as the title.
-* **`<title>`** – Sets the title displayed on the browser tab.
-* **`<body>`** – Contains all the visible content of the webpage.
-* **`<h1>`** – Displays the main heading of the page.
-* **`<form>`** – Creates a form to collect user information.
-* **`<label>`** – Provides a label or description for an input field.
-* **`<input>`** – Creates different types of input fields (text, email, password, radio, etc.).
-* **`<br>`** – Inserts a line break between elements.
-* **`<select>`** – Creates a drop-down list.
-* **`<option>`** – Defines the items inside a drop-down list.
-* **`<textarea>`** – Creates a multi-line text input area.
-* **`<button>`** – Creates a clickable button to submit the form.
+<html> – Defines the root of the HTML document.
+<head> – Contains information about the webpage, such as the title.
+<title>– Sets the title displayed on the browser tab.
+<body> – Contains all the visible content of the webpage
+<h1> – Displays the main heading of the page.
+<form> – Creates a form to collect user information.
+<label> – Provides a label or description for an input field.
+<input>– Creates different types of input fields (text, email, password, radio, etc.).
+<br>– Inserts a line break between elements.
+<select>– Creates a drop-down list.
+<option> – Defines the items inside a drop-down list.
+<textarea>– Creates a multi-line text input area.
+<button> – Creates a clickable button to submit the form.
